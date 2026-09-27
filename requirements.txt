@@ -1,3 +1,10 @@
+gTTS
+```[span_0](start_span)[span_0](end_span)
+
+Aap apni GitHub ki `requirements.txt` file mein sabse neeche nayi line mein `gTTS` likh kar **Commit changes** kar dijiye[span_1](start_span)[span_1](end_span). 
+
+Poori list aisi honi chahiye:
+```text
 python-telegram-bot
 requests
 qrcode
@@ -5,3 +12,4 @@ pillow
 beautifulsoup4
 flask
 yt-dlp
+gTTS
