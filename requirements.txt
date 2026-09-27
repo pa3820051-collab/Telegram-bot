@@ -4,3 +4,4 @@ qrcode
 pillow
 beautifulsoup4
 flask
+yt-dlp
