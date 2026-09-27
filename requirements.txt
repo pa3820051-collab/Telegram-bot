@@ -3,3 +3,4 @@ requests
 qrcode
 pillow
 beautifulsoup4
+flask
